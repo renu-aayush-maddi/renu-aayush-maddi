@@ -1,3 +1,6 @@
+# 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=renu-aayush-maddi&theme=radical&hide_border=false)](https://git.io/streak-stats) 
 # 👋 Hi, I'm Aayush!
 
 🚀 Passionate about AI, Computer Vision, and Full-Stack Development  
