@@ -36,16 +36,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Tools-4caf50)
 
 
----
-
-## 📊 GitHub Stats
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=renu-aayush-maddi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renu-aayush-maddi&layout=compact&theme=radical)
-
----
-
-
-
 ## 💬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renu-aayush-maddi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/renu-aayush-maddi)
