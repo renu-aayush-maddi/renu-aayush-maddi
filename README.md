@@ -12,9 +12,6 @@
 
 ---
 
-## ✨ Animated Showcase
-![Coding GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcRW/giphy.gif)  
-[![Aayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renu-aayush-maddi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
