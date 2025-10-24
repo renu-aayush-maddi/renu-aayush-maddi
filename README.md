@@ -33,7 +33,6 @@
 ### Modern LLM / GenAI & Retrieval
 ![Gen AI](https://img.shields.io/badge/GenAI-LLMs-151515)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-007ACC)
-![Embeddings](https://img.shields.io/badge/Embeddings-Vector-db-0b6efd)
 ![LangChain](https://img.shields.io/badge/LangChain-Tools-4caf50)
 
 ### Data / Tools
