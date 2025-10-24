@@ -10,10 +10,6 @@
 💡 Currently exploring Intelligent Process Automation and Multimodal ML  
 🌱 Always learning and building cool projects!
 
----
-
-
----
 
 ## 🧰 Tech Stack & Domains
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
