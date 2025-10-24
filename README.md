@@ -35,11 +35,6 @@
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-007ACC)
 ![LangChain](https://img.shields.io/badge/LangChain-Tools-4caf50)
 
-### Data / Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 
@@ -49,12 +44,7 @@
 
 ---
 
-## 🏆 Selected Highlights
-- 🥇 Winner at Walmart Hackathon 2024
-- 🤖 Built YOLOv8-based Out-of-Stock detection system
-- 📊 Multimodal Smart Product Pricing (CLIP + SBERT + Tabular)
 
----
 
 ## 💬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renu-aayush-maddi)
@@ -63,6 +53,4 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=renu-aayush-maddi&color=blue)
 
----
 
-> Tip: if you want the GIF changed to something more subtle or a custom SVG banner (dark/light), tell me which vibe you want — *minimal*, *cyberpunk*, *matrix*, or *playful* — and I’ll tweak the README for that look.
